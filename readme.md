@@ -2,6 +2,8 @@
 
 Hello there! I took CS1020 at NUS SoC in my first semester (AY2014/15 Sem 1). Herein contains my solution to the sit-in labs, (some) take home labs and practice PEs.  Hope it can help others.
 
+>Disclaimer: I do not claim to have written perfect code that is considered as the only solution to the problems posted. There are better, shorter, faster and more elegant solutions. If you had written them, I urge you to share it (if willing). 
+
 ##Rules
 
 - All these code I've written will are released public under the MIT License
